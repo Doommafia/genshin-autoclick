@@ -3,8 +3,8 @@ import time
 import random
 import keyboard
 
-min_interval = 0.3
-max_interval = 0.7
+min_interval = 0.2
+max_interval = 0.4
 
 interval_count = 0
 interval_sum = 0 
